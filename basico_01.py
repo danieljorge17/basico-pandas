@@ -1,5 +1,4 @@
 ##### Programa para testar as funções básicas do pandas #####
-from this import d
 import pandas as pd
 
 pokemon_data_xlsx = pd.ExcelFile('/Volumes/SSD - Dados/Programação/basico-pandas/pokemon_data.xlsx')
